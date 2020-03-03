@@ -6,3 +6,8 @@ title: NO!
 ### Should you still use Photoshop for UI work?
 
 # NO!
+
+<span class="close"></span>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="393.21" height="355.82" viewBox="0 0 393.21 355.82"><title>sketch</title><g id="baeb5b07-6202-4928-9704-31c88a879bca" data-name="Layer 2"><g id="ab19430e-3525-4bd8-bf0b-c9abd05bd67e" data-name="Layer 1"><path d="M85.79,11.72,196.6,0,307.42,11.72l85.79,115.16L196.6,355.82,0,126.88Z" fill="#fdb300" fill-rule="evenodd"/><polygon points="79.63 126.88 196.6 355.82 0 126.88 79.63 126.88" fill="#ea6c00" fill-rule="evenodd"/><polygon points="313.57 126.88 196.6 355.82 393.2 126.88 313.57 126.88" fill="#ea6c00" fill-rule="evenodd"/><polygon points="79.63 126.88 313.57 126.88 196.6 355.82 79.63 126.88" fill="#fdad00" fill-rule="evenodd"/><polygon points="196.6 0 85.79 11.71 79.63 126.88 196.6 0" fill="#fdd231" fill-rule="evenodd"/><polygon points="196.6 0 307.42 11.71 313.57 126.88 196.6 0" fill="#fdd231" fill-rule="evenodd"/><polygon points="393.21 126.88 307.42 11.71 313.57 126.88 393.21 126.88" fill="#fdad00" fill-rule="evenodd"/><polygon points="0 126.88 85.79 11.71 79.63 126.88 0 126.88" fill="#fdad00" fill-rule="evenodd"/><polygon points="196.6 0 79.63 126.88 313.57 126.88 196.6 0" fill="#feeeb7" fill-rule="evenodd"/></g></g></svg>
+
