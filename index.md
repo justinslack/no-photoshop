@@ -2,12 +2,37 @@
 layout: homepage.liquid
 title: NO!
 ---
+<header>
+  <h2>Should you still use Photoshop for UI work?</h2>
+</header>
 
-### Should you still use Photoshop for UI work?
+<div class="container">
+  <h1>NO!</h1>
+  <div class="photoshop">
+    <svg class="icon-large" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="195" viewBox="0 0 200 195"><defs><radialGradient id="b0d37367-e090-4ef2-a06a-ab64b68badd8" cx="623.95" cy="-793.05" r="0.06" gradientTransform="matrix(2225.31, 0, 0, -2154.5, -1388422.25, -1708581.05)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#34364e" stop-opacity="0.98"/><stop offset="1" stop-color="#0c0824"/></radialGradient></defs><title>photoshop</title><g id="f3ffd407-2454-4b6c-a763-e8b690a2b426" data-name="Layer 2"><g id="f1edea1c-4590-49d6-9b62-910a63cb8524" data-name="Layer 1"><path d="M8.33,8.33H191.67V186.67H8.33Z" fill="url(#b0d37367-e090-4ef2-a06a-ab64b68badd8)"/><path d="M8.33,8.33H191.67V186.67H8.33ZM0,195H200V0H0ZM134.83,80c-6.58,0-8.83,3.33-8.83,6.08,0,3,1.5,5.09,10.33,9.67,13.09,6.33,17.17,12.42,17.17,21.33,0,13.34-10.17,20.5-23.92,20.5-7.25,0-13.5-1.5-17.08-3.58-.58-.25-.67-.67-.67-1.33V120.42c0-.84.42-1.09,1-.67a30.91,30.91,0,0,0,16.75,4.92c6.59,0,9.34-2.75,9.34-6.5,0-3-1.92-5.67-10.34-10-11.83-5.67-16.75-11.42-16.75-21,0-10.75,8.42-19.67,23-19.67,7.17,0,12.17,1.08,14.92,2.33a1.85,1.85,0,0,1,.83,1.67V82.92c0,.66-.41,1.08-1.25.83-3.66-2.33-9.08-3.75-14.5-3.75ZM63.17,89.92c1.91.16,3.41.16,6.75.16,9.75,0,18.91-3.41,18.91-16.66,0-10.59-6.58-15.92-17.66-15.92-3.34,0-6.5.17-8,.25ZM48.33,45.67c0-.59,1.17-1,1.84-1,5.33-.25,13.25-.42,21.5-.42,23.08,0,32.08,12.67,32.08,28.83,0,21.17-15.33,30.25-34.17,30.25-3.16,0-4.25-.16-6.5-.16v32c0,.66-.25,1-1,1H49.33c-.66,0-1-.25-1-1V45.67Z" fill="#31c5f0"/></g></g></svg>
+    <span class="close"></span>
+  </div>
+</div>
 
-# NO!
-
-<span class="close"></span>
-
-<svg xmlns="http://www.w3.org/2000/svg" width="393.21" height="355.82" viewBox="0 0 393.21 355.82"><title>sketch</title><g id="baeb5b07-6202-4928-9704-31c88a879bca" data-name="Layer 2"><g id="ab19430e-3525-4bd8-bf0b-c9abd05bd67e" data-name="Layer 1"><path d="M85.79,11.72,196.6,0,307.42,11.72l85.79,115.16L196.6,355.82,0,126.88Z" fill="#fdb300" fill-rule="evenodd"/><polygon points="79.63 126.88 196.6 355.82 0 126.88 79.63 126.88" fill="#ea6c00" fill-rule="evenodd"/><polygon points="313.57 126.88 196.6 355.82 393.2 126.88 313.57 126.88" fill="#ea6c00" fill-rule="evenodd"/><polygon points="79.63 126.88 313.57 126.88 196.6 355.82 79.63 126.88" fill="#fdad00" fill-rule="evenodd"/><polygon points="196.6 0 85.79 11.71 79.63 126.88 196.6 0" fill="#fdd231" fill-rule="evenodd"/><polygon points="196.6 0 307.42 11.71 313.57 126.88 196.6 0" fill="#fdd231" fill-rule="evenodd"/><polygon points="393.21 126.88 307.42 11.71 313.57 126.88 393.21 126.88" fill="#fdad00" fill-rule="evenodd"/><polygon points="0 126.88 85.79 11.71 79.63 126.88 0 126.88" fill="#fdad00" fill-rule="evenodd"/><polygon points="196.6 0 79.63 126.88 313.57 126.88 196.6 0" fill="#feeeb7" fill-rule="evenodd"/></g></g></svg>
+<footer>
+  <h3>Use these instead</h3>
+  <div class="logos">
+    <a href="https://www.sketch.com/">
+      <svg xmlns="http://www.w3.org/2000/svg" width="110.51" height="100" viewBox="0 0 110.51 100"><title>sketch</title><g id="a52d153b-9b52-4bc7-9e7d-21efb95bd345" data-name="Layer 2"><g id="b3263fd0-d9e4-4ecb-a0a4-ff21e1e01775" data-name="Layer 1"><g id="b83244a4-b715-4ab0-9f76-292513dab54a" data-name="baeb5b07-6202-4928-9704-31c88a879bca"><g id="b9cc6b0b-aba6-4c4c-8340-13c9074374e4" data-name="ab19430e-3525-4bd8-bf0b-c9abd05bd67e"><path d="M24.11,3.29,55.25,0,86.4,3.29l24.11,32.37L55.25,100,0,35.66Z" fill="#fdb300" fill-rule="evenodd"/><polygon points="22.38 35.66 55.25 100 0 35.66 22.38 35.66" fill="#ea6c00" fill-rule="evenodd"/><polygon points="88.13 35.66 55.25 100 110.5 35.66 88.13 35.66" fill="#ea6c00" fill-rule="evenodd"/><polygon points="22.38 35.66 88.13 35.66 55.25 100 22.38 35.66" fill="#fdad00" fill-rule="evenodd"/><polygon points="55.25 0 24.11 3.29 22.38 35.66 55.25 0" fill="#fdd231" fill-rule="evenodd"/><polygon points="55.25 0 86.4 3.29 88.13 35.66 55.25 0" fill="#fdd231" fill-rule="evenodd"/><polygon points="110.51 35.66 86.4 3.29 88.13 35.66 110.51 35.66" fill="#fdad00" fill-rule="evenodd"/><polygon points="0 35.66 24.11 3.29 22.38 35.66 0 35.66" fill="#fdad00" fill-rule="evenodd"/><polygon points="55.25 0 22.38 35.66 88.13 35.66 55.25 0" fill="#feeeb7" fill-rule="evenodd"/></g></g></g></g></svg>
+      <p>Sketch</p>
+    </a>
+    <a href="https://www.figma.com">
+      <svg xmlns="http://www.w3.org/2000/svg" width="66.67" height="100" viewBox="0 0 66.67 100"><title>figma</title><g id="ecec2187-b0c2-4470-a55a-17630cc6b26d" data-name="Layer 2"><g id="a6689a99-0bb1-4da9-b43a-b0b167bd77d7" data-name="Layer 1"><path id="f4719dc6-e9c3-4506-92e3-8ef2e8dc3b66" data-name="path0 fill" d="M16.67,100A16.67,16.67,0,0,0,33.33,83.33V66.67H16.67a16.67,16.67,0,1,0,0,33.33Z" fill="#0acf83"/><path id="b1134fe6-b06b-430b-b706-00dc57ecd3bc" data-name="path1 fill" d="M0,50A16.68,16.68,0,0,1,16.67,33.33H33.33V66.67H16.67A16.68,16.68,0,0,1,0,50Z" fill="#a259ff"/><path id="b1948994-78dc-4a26-8ba1-906743bcd3f9" data-name="path1 fill" d="M0,16.67A16.68,16.68,0,0,1,16.67,0H33.33V33.33H16.67A16.67,16.67,0,0,1,0,16.67Z" fill="#f24e1e"/><path id="e7923537-a561-4aee-b773-0ca782ef4768" data-name="path2 fill" d="M33.33,0H50a16.67,16.67,0,1,1,0,33.33H33.33Z" fill="#ff7262"/><path id="e49102db-5f32-4fc2-9005-46d1d47fbf9c" data-name="path3 fill" d="M66.67,50A16.67,16.67,0,1,1,50,33.33,16.68,16.68,0,0,1,66.67,50Z" fill="#1abcfe"/></g></g></svg>
+      <p>Figma</p>
+    </a>
+    <a href="https://www.adobe.com/africa/products/xd.html">
+      <svg xmlns="http://www.w3.org/2000/svg" width="102.56" height="100" viewBox="0 0 102.56 100"><title>xd</title><g id="ebebafc2-e0a6-4646-bbef-f6c411e4973d" data-name="Layer 2"><g id="a6ad64ef-d5f8-4609-9ad4-2a34e2ae9f0d" data-name="Layer 1"><path d="M84.4,100H18.16A18.15,18.15,0,0,1,0,81.84V18.16A18.15,18.15,0,0,1,18.16,0H84.4a18.14,18.14,0,0,1,18.16,18.16V81.84A18.14,18.14,0,0,1,84.4,100Z" fill="#ff26be"/><path d="M82.78,95.73h-63A15.55,15.55,0,0,1,4.27,80.21V19.79A15.55,15.55,0,0,1,19.79,4.27h63A15.51,15.51,0,0,1,98.25,19.79V80.17A15.49,15.49,0,0,1,82.78,95.73Z" fill="#2e001f"/><path d="M40.55,46.79l12,23c.21.35.09.69-.26.69H44.82a.83.83,0,0,1-.89-.55c-2.74-5.65-5.52-11.29-8.38-17.35h-.09C32.9,58.29,30.08,64.32,27.34,70a.81.81,0,0,1-.77.47h-7c-.43,0-.47-.34-.26-.6L31,47.52,19.66,25a.35.35,0,0,1,.25-.6h7.36a.67.67,0,0,1,.76.47c2.69,5.64,5.43,11.46,8,17.14h.09c2.48-5.64,5.22-11.5,7.87-17.1.21-.34.34-.55.77-.55h6.88c.34,0,.47.26.26.6Zm14.07,7c0-10,6.62-17.74,17.13-17.74a18.15,18.15,0,0,1,2.23.09V24.79a.42.42,0,0,1,.42-.43h6.76c.34,0,.42.13.42.34V63.93a29.55,29.55,0,0,0,.22,4.19c0,.26-.09.34-.34.47a25.35,25.35,0,0,1-10.95,2.48c-9.27,0-15.9-5.68-15.89-17.31ZM74,42.82a6.39,6.39,0,0,0-2.47-.42c-5.39,0-9.15,4.14-9.15,11,0,7.87,3.85,11,8.68,11A8.12,8.12,0,0,0,74,64V42.82Z" fill="#ffd9f2"/></g></g></svg>
+      <p>Adobe XD</p>
+    </a>
+    <a href="https://www.invisionapp.com/studio/">
+      <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><title>invision</title><g id="a004123f-245e-4512-b07b-9023c468c37e" data-name="Layer 2"><g id="ee8dc856-b6da-468e-bb57-cdec6ae3bb15" data-name="Layer 1"><path d="M90.93,0H9.07A9.07,9.07,0,0,0,0,9.07V90.93A9.07,9.07,0,0,0,9.07,100H90.93A9.07,9.07,0,0,0,100,90.93V9.07A9.07,9.07,0,0,0,90.93,0" fill="#dc395f"/><path d="M33.42,31.46a6,6,0,1,0-6.11-6,6,6,0,0,0,6.11,6M20.75,63.7a20.52,20.52,0,0,0-.54,4.52c0,5.3,2.88,8.82,9,8.82,5.06,0,9.17-3,12.13-7.87l-1.81,7.25H49.58l5.75-23.06c1.44-5.84,4.23-8.87,8.45-8.87,3.32,0,5.39,2.07,5.39,5.48a10.72,10.72,0,0,1-.45,3.23l-3,10.6a16.29,16.29,0,0,0-.62,4.49c0,5,3,8.72,9.16,8.72,5.3,0,9.52-3.42,11.86-11.59l-4-1.53c-2,5.48-3.68,6.47-5,6.47s-2.06-.9-2.06-2.69a11.87,11.87,0,0,1,.45-2.79l2.87-10.33a22.67,22.67,0,0,0,1-6.55c0-7.72-4.67-11.76-10.33-11.76-5.3,0-10.69,4.79-13.39,9.82l2-9H42.31L40.15,45h7.19L42.91,62.7c-3.47,7.73-9.86,7.85-10.66,7.67-1.31-.3-2.15-.8-2.15-2.5a17.36,17.36,0,0,1,.62-4.12L37.46,37H20.39L18.24,45h7.09L20.75,63.7" fill="#fff"/></g></g></svg>
+      <p>Invision Studio</p>
+    </a>
+  </div>
+</footer>
 
